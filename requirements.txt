@@ -1,0 +1,16 @@
+# Core ML Frameworks
+torch
+torchvision
+timm
+
+# Optimization & Search
+optuna
+
+# Interface & Visualization
+gradio
+matplotlib
+
+# Data Processing & Metrics
+scikit-learn
+numpy
+pillow
